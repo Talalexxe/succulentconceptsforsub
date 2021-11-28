@@ -633,6 +633,7 @@ li{
     justify-content: space-evenly;
     box-shadow: 0 6px 8px 0 #d3d3d3, 0 4px 8px 0 #808080;
     vertical-align: middle;
+    margin-right: 30px;
 
 }
 .menu-size-down{
@@ -672,8 +673,9 @@ li{
       width: 100px;
       margin-top: 30px;
       margin-left: 100px;
-      border: #ceed00;
-      border-right: 2px;
+      margin-bottom: 20px;
+      border-color: #ceed00;
+      border-width: 2px;
       border-style: solid;
       
   }
